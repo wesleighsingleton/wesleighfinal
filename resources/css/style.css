@@ -1,0 +1,28 @@
+body{
+background-color: black;
+color: white;
+text-align: center;
+}
+h1,h3{
+color: white;
+font-family: Verdana;
+text-align: center;
+font-size: 50px;
+font-weight: normal;
+}
+#link{
+color: Aquamarine;
+font-size: 16px;
+text-decoration: underline Aquamarine;
+}
+h2{
+font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+}
+p{
+font-family: Verdana;
+font-size: 21px;
+color: Gray;
+}
+
